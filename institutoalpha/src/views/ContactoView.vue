@@ -9,7 +9,7 @@
 
 <template>
     <Header />
-    <Masthead />
+    <img class="img-fluid" src="/img/header-bgRED.jpg" alt="Instituto Alpha" >
 
     <!--<h1>Contacto</h1>
     <hr>

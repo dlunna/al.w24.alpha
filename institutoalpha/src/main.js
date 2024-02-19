@@ -17,13 +17,13 @@ import { faMedal } from '@fortawesome/free-solid-svg-icons'
 import { faCertificate } from '@fortawesome/free-solid-svg-icons'
 import { faAward } from '@fortawesome/free-solid-svg-icons'
 import { faHome } from '@fortawesome/free-solid-svg-icons'
-import { faFacebookF, faWhatsapp } from '@fortawesome/free-brands-svg-icons'
+import { faFacebookF, faWhatsapp, faYoutube } from '@fortawesome/free-brands-svg-icons'
 
 
 
 /*<i class="fa-solid fa-school"></i>*/
 /* add icons to the library */
-library.add(faMedal, faCertificate, faAward, faHome, faFacebookF, faWhatsapp)
+library.add(faMedal, faCertificate, faAward, faHome, faFacebookF, faWhatsapp, faYoutube)
 
 
 

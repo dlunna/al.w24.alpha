@@ -1,8 +1,8 @@
 <script setup>
   import Header from '../components/Header.vue'
   import Footer from '../components/Footer.vue'
-  import Masthead from '../components/Masthead.vue'
-  import Linea from '../components/Linea.vue'
+  //import Masthead from '../components/Masthead.vue'
+  //import Linea from '../components/Linea.vue'
   import Levels from '../components/Levels.vue'
   import Portfolio from '../components/Portfolio.vue'
   import Eventos from '../components/Eventos.vue'
@@ -13,17 +13,21 @@
 
 <template>
 
+        <a id="#top"></a>
+
         <Header />
 
-        <Masthead />
+        <img class="img-fluid" src="/img/head.jpg" alt="Instituto Alpha" >
+
+        
 
         <Levels />
 
         <Portfolio />    
 
-        <Linea />
+        
 
-        <Servicios />
+        
 
         
         <Eventos />

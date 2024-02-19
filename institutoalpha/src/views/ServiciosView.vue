@@ -3,7 +3,7 @@
   import Header from '../components/Header.vue'
   import Footer from '../components/Footer.vue'
   import Masthead from '../components/Masthead.vue'
-  import Linea from '../components/Linea.vue'
+  import Servicios from '../components/Servicios.vue'
 
 
   import { RouterLink, RouterView } from 'vue-router'
@@ -11,9 +11,9 @@
 
 <template>
   <Header />
-  <img class="img-fluid" src="/img/header-bgPIK.jpg" alt="Instituto Alpha" >
+  <img class="img-fluid" src="/img/header-bgBLU.jpg" alt="Instituto Alpha" >
 
-  <Linea />
+  <Servicios />
 
   <Footer />
 </template>

@@ -17,7 +17,7 @@
 
                     </div>
                     <div class="col-md-6 col-sm-6 my-3">
-                        <iframe src="https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1707944723054!5m2!1ses-419!2smx!6m8!1m7!1srjIe72BO07PN61JSUgj7Bg!2m2!1d20.11570344050011!2d-98.7797375016252!3f189.94883335643632!4f0.2344241174489099!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1707944723054!5m2!1ses-419!2smx!6m8!1m7!1srjIe72BO07PN61JSUgj7Bg!2m2!1d20.11570344050011!2d-98.7797375016252!3f189.94883335643632!4f0.2344241174489099!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     
                 </div>
